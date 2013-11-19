@@ -3,11 +3,13 @@ define([
       , "views/temp-snippet"
       , "helper/pubsub"
       , "text!templates/app/renderform.html"
+    , "text!templates/app/renderJsonform.html"
 ], function(
   $, _, Backbone
   , TempSnippetView
   , PubSub
   , _renderForm
+    , _renderJsonForm
 ){
   return Backbone.View.extend({
     tagName: "fieldset"
@@ -20,6 +22,7 @@ define([
       PubSub.on("tempDrop", this.handleTempDrop, this);
       this.$build = $("#build");
       this.renderForm = _.template(_renderForm);
+          this.renderJsonForm = _.template(_renderJsonForm);
       this.render();
     }
 
@@ -33,6 +36,18 @@ define([
       $("#render").val(that.renderForm({
         text: _.map(this.collection.renderAllClean(), function(e){return e.html()}).join("\n")
       }));
+          $("#renderJson").val(that.renderJsonForm({
+              text: _.map(this.collection.renderAllClean(), function(e){return   { "title" : "Form Name"
+                  , "fields": {
+                      "name" : {
+                          "label"   : "Form Name"
+                          , "type"  : "input"
+                          , "value" : "Form Name"
+                      }
+                  }
+              }}).join("\n")
+          }));
+
       this.$el.appendTo("#build form");
       this.delegateEvents();
     }

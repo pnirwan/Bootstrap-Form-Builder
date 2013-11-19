@@ -3,13 +3,13 @@ define([
        , "collections/snippets" , "collections/my-form-snippets"
        , "views/tab" , "views/my-form"
        , "text!data/input.json", "text!data/radio.json", "text!data/select.json", "text!data/buttons.json"
-       , "text!templates/app/render.html",  "text!templates/app/about.html", 
+       , "text!templates/app/render.html",  "text!templates/app/renderJson.html",
 ], function(
   $, _, Backbone
   , SnippetsCollection, MyFormSnippetsCollection
   , TabView, MyFormView
   , inputJSON, radioJSON, selectJSON, buttonsJSON
-  , renderTab, aboutTab
+  , renderTab, renderJsonTab
 ){
   return {
     initialize: function(){
@@ -32,12 +32,12 @@ define([
         , collection: new SnippetsCollection(JSON.parse(buttonsJSON))
       });
       new TabView({
-        title: "Rendered"
+        title: "Html"
         , content: renderTab
       });
       new TabView({
-        title: "About"
-        , content: aboutTab
+        title: "Json"
+        , content: renderJsonTab
       });
 
       //Make the first tab active!
