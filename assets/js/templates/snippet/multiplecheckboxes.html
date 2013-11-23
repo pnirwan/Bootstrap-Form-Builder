@@ -1,7 +1,7 @@
 <!-- Multiple Checkboxes -->
 <div class="form-group">
   <label class="col-sm-3 control-label no-padding-right" for="<%= name %>"><%= label %></label>
-  <div class="col-sm-9"><% _.each(checkboxes, function(checkbox, i){ %>
+  <div class="col-sm-7"><% _.each(checkboxes, function(checkbox, i){ %>
     <label class="checkbox" for="<%= name+'-'+i %>">
       <input type="checkbox" name="<%= name %>" id="<%= name+'-'+i %>" value="<%= checkbox %>"<% if(required){ %> required="required"<% } %>>
       <%= checkbox %>
