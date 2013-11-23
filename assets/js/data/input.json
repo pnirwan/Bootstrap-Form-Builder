@@ -17,7 +17,7 @@
           },
           {
             "label": "Small",
-            "value": "input-small",
+            "value": "input-sm",
             "selected": false
           },
           {
