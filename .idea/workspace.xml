@@ -13,8 +13,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/snippet/multipleradios.html" afterPath="$PROJECT_DIR$/assets/js/templates/snippet/multipleradios.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/snippet/multipleradiosinline.html" afterPath="$PROJECT_DIR$/assets/js/templates/snippet/multipleradiosinline.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/snippet/passwordinput.html" afterPath="$PROJECT_DIR$/assets/js/templates/snippet/passwordinput.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/popover/popover-checkbox.html" afterPath="$PROJECT_DIR$/assets/js/templates/popover/popover-checkbox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/popover/popover-main.html" afterPath="$PROJECT_DIR$/assets/js/templates/popover/popover-main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/popover/popover-input.html" afterPath="$PROJECT_DIR$/assets/js/templates/popover/popover-input.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/popover/popover-textarea.html" afterPath="$PROJECT_DIR$/assets/js/templates/popover/popover-textarea.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/snippet/prependedcheckbox.html" afterPath="$PROJECT_DIR$/assets/js/templates/snippet/prependedcheckbox.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/snippet/prependedtext.html" afterPath="$PROJECT_DIR$/assets/js/templates/snippet/prependedtext.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/snippet/searchinput.html" afterPath="$PROJECT_DIR$/assets/js/templates/snippet/searchinput.html" />
@@ -45,28 +45,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="appendedcheckbox.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/appendedcheckbox.html">
+      <file leaf-file-name="popover-checkbox.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-checkbox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="24" selection-start="76" selection-end="76" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="285">
+            <state line="1" column="56" selection-start="81" selection-end="93" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prependedtext.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/prependedtext.html">
+      <file leaf-file-name="popover-select.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-select.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="22" selection-start="164" selection-end="164" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="255">
+            <state line="6" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appendedtext.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/appendedtext.html">
+      <file leaf-file-name="popover-textarea.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-textarea.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="22" selection-start="164" selection-end="164" vertical-scroll-proportion="0.07772021" vertical-offset="0" max-vertical-offset="579">
+            <state line="1" column="17" selection-start="95" selection-end="95" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="20" selection-start="1417" selection-end="1425" vertical-scroll-proportion="0.29783395" vertical-offset="360" max-vertical-offset="1440">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popover-textarea-split.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-textarea-split.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="303" selection-end="303" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
@@ -90,22 +108,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/assets/js/templates/snippet/buttondouble.html" />
-        <option value="$PROJECT_DIR$/assets/js/templates/snippet/buttondropdown.html" />
-        <option value="$PROJECT_DIR$/assets/js/templates/snippet/filebutton.html" />
-        <option value="$PROJECT_DIR$/assets/js/templates/snippet/multiplecheckboxes.html" />
-        <option value="$PROJECT_DIR$/assets/js/templates/snippet/multiplecheckboxesinline.html" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/multipleradios.html" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/multipleradiosinline.html" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/passwordinput.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/snippet/prependedcheckbox.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/snippet/prependedtext.html" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/searchinput.html" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/selectbasic.html" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/selectmultiple.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/snippet/textinput.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/snippet/button.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/snippet/buttondouble.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/snippet/buttondropdown.html" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/textarea.html" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/appendedcheckbox.html" />
-        <option value="$PROJECT_DIR$/assets/js/templates/snippet/prependedcheckbox.html" />
-        <option value="$PROJECT_DIR$/assets/js/templates/snippet/prependedtext.html" />
-        <option value="$PROJECT_DIR$/assets/js/templates/snippet/appendedtext.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/popover/popover-input.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/popover/popover-textarea.html" />
       </list>
     </option>
   </component>
@@ -175,58 +193,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adam-form-builder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adam-form-builder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snippet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adam-form-builder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adam-form-builder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="popover" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -322,14 +288,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980783" sideWeight="0.6702786" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980783" sideWeight="0.6702786" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -345,10 +311,10 @@
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -356,7 +322,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980783" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980783" sideWeight="0.6702786" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -374,114 +340,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/button.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/app/renderform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="157" selection-end="157" vertical-scroll-proportion="0.07601351" vertical-offset="0" max-vertical-offset="592">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/formname.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/app/tab-nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="120">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/multiplecheckboxes.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/app/temp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="172" selection-end="172" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/multiplecheckboxesinline.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="181" selection-end="181" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="603">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/multipleradios.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-input.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="168" selection-end="168" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+        <state line="1" column="27" selection-start="105" selection-end="105" vertical-scroll-proportion="0.025906736" vertical-offset="0" max-vertical-offset="579">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/multipleradiosinline.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-checkbox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="177" selection-end="177" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+        <state line="1" column="56" selection-start="81" selection-end="93" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="150">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/passwordinput.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-select.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="164" selection-end="164" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+        <state line="6" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/searchinput.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-textarea-split.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="162" selection-end="162" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
+        <state line="2" column="0" selection-start="303" selection-end="303" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="120">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/selectbasic.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/collections/my-form-snippets.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="163" selection-end="163" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/selectmultiple.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/models/snippet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="166" selection-end="166" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/textarea.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/data/buttons.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="160" selection-end="160" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="195">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2925">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/textinput.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/views/my-form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="68" selection-end="68" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="210">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/appendedcheckbox.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="24" selection-start="76" selection-end="76" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="285">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/prependedcheckbox.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="169" selection-end="169" vertical-scroll-proportion="0.07772021" vertical-offset="0" max-vertical-offset="579">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/prependedtext.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/popover/popover-textarea.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="164" selection-end="164" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="255">
+        <state line="1" column="17" selection-start="95" selection-end="95" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/appendedtext.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="164" selection-end="164" vertical-scroll-proportion="0.07772021" vertical-offset="0" max-vertical-offset="579">
+        <state line="35" column="20" selection-start="1417" selection-end="1425" vertical-scroll-proportion="0.29783395" vertical-offset="360" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
