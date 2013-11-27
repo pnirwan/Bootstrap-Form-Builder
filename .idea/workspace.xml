@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30371693-dc97-4138-9ef1-9e18cdf3e836" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/snippet/textarea.html" afterPath="$PROJECT_DIR$/assets/js/templates/snippet/textarea.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/templates/snippet/textinput.html" afterPath="$PROJECT_DIR$/assets/js/templates/snippet/textinput.html" />
     </list>
     <ignored path="drag-drop.iws" />
@@ -25,8 +26,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="textinput.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="textinput.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/textinput.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="105">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="textarea.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/textarea.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592">
               <folding />
@@ -55,6 +65,7 @@
         <option value="$PROJECT_DIR$/assets/js/views/my-form-snippet.js" />
         <option value="$PROJECT_DIR$/assets/js/views/my-form.js" />
         <option value="$PROJECT_DIR$/assets/js/templates/snippet/textinput.html" />
+        <option value="$PROJECT_DIR$/assets/js/templates/snippet/textarea.html" />
       </list>
     </option>
   </component>
@@ -195,7 +206,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bootstrap-Form-Builder-1.0.0.1" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -247,6 +258,13 @@
     <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/textinput.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/templates/snippet/textarea.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
